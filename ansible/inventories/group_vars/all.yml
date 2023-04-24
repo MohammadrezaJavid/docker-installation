@@ -1,0 +1,4 @@
+default_container_name: "docker"
+default_container_image: "hello-world"
+mirror_registry: "https://registry.docker.ir"
+
